@@ -1,0 +1,6 @@
+OrderID,ProductName,Category,Price,Quantity,OrderDate,TotalAmount,Month,PriceGroup
+1,iPhone 13,phone,20000000,1.0,2024-01-01,20000000.0,1.0,Medium
+2,Samsung S21,phone,15000000,2.0,2024-01-02,30000000.0,1.0,Low
+3,Laptop Dell,laptop,30000000,1.5,2024-01-03,45000000.0,1.0,High
+4,Mouse,accessory,100000,1.5,,150000.0,,Low
+5,iPhone 13,phone,20000000,1.0,2024-01-05,20000000.0,1.0,Medium

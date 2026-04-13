@@ -1,0 +1,6 @@
+ReviewID,UserName,Rating,Comment,ProductCategory,ReviewDate
+R01,user1,5,  Rất   tốt!!! ,DienThoai,2024-01-01
+R02,user2,6,gooooood,Shoes,2024-01-02
+R03,user3,2,  tệ quáaaa ,dienThoai,2024-01-03
+R01,user1,5,duplicate,DienThoai,2024-01-01
+R04,user4,-1,bad!!!,Laptop,invalid

@@ -1,0 +1,5 @@
+ReviewID,UserName,Rating,Comment,ProductCategory,ReviewDate,CommentLength
+R01,user1,5,Rất tốt!!,dienthoai,2024-01-01,9
+R02,user2,5,good,shoes,2024-01-02,4
+R03,user3,2,tệ quáaa,dienthoai,2024-01-03,8
+R04,user4,1,bad!!,laptop,,5

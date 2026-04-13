@@ -1,0 +1,6 @@
+MaBN,Tuoi,GioiTinh,HuyetApTamThu,HuyetApTamTruong,DuongHuyet,ChanDoan,ChanDoan_Code,Tuoi_Scaled,HuyetApTamThu_Scaled,HuyetApTamTruong_Scaled,DuongHuyet_Scaled
+BN01,25.0,Nam,120,80.0,5.5,Binh Thuong,0,0.0,0.3333333333333333,0.5,0.0
+BN02,37.5,Nu,140,90.0,7.2,Tieu Duong,2,0.625,1.0,1.0,1.0
+BN03,37.5,Nam,130,85.0,6.6,Cao Huyet Ap,1,0.625,0.6666666666666666,0.75,0.6470588235294115
+BN04,45.0,Nu,130,85.0,6.0,Binh Thuong,0,1.0,0.6666666666666666,0.75,0.2941176470588235
+BN05,30.0,Nam,110,70.0,6.6,Binh Thuong,0,0.25,0.0,0.0,0.6470588235294115
